@@ -1,2 +1,2 @@
 # dataviz-homework-test
-Repo to contain my homework for dataviz class
+Test repo to contain my homework for dataviz class
